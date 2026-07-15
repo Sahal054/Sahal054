@@ -1,3 +1,6 @@
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-github-readme-stats.svg)
 ![Profile Views](https://komarev.com/ghpvc/?username=Sahal054&label=Profile%20Views&color=blueviolet&style=flat)
 # Hello there! I'm Sahal 👋
 

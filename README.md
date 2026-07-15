@@ -15,7 +15,7 @@ I've worked on everything from enterprise migration tools and healthcare softwar
 
 ---
 
-# 🚀 What I'm Up To
+# What I'm Up To
 
 - 🔨 Building **Travelling Salesman**, a travel platform to simplify trip planning
 - 🐍 Developing scalable backend services with **Python**, **FastAPI**, and **Django**
@@ -26,7 +26,7 @@ I've worked on everything from enterprise migration tools and healthcare softwar
 
 ---
 
-# 🧠 Ask Me About
+# Ask Me About
 
 - Python, FastAPI & Django
 - REST APIs & Backend Architecture
@@ -85,7 +85,7 @@ I've worked on everything from enterprise migration tools and healthcare softwar
 
 ---
 
-# 🌱 A Few Things About Me
+# A Few Things About Me
 
 - 💡 I enjoy turning ideas into products people can actually use.
 - 🚀 I learn best by building.
@@ -95,7 +95,7 @@ I've worked on everything from enterprise migration tools and healthcare softwar
 
 ---
 
-# 📊 GitHub Activity
+# GitHub Activity
 
 <p align="center">
   <img src="./profile/stats.svg" width="49%" />
@@ -108,7 +108,7 @@ I've worked on everything from enterprise migration tools and healthcare softwar
 
 ---
 
-# 📫 Let's Connect
+# Let's Connect
 
 💼 **LinkedIn:** https://linkedin.com/in/Sahal054
 

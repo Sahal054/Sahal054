@@ -1,7 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Sahal054&label=Profile%20Views&color=blueviolet&style=flat)
 # Hello there! I'm Sahal 👋
-
-Breaking things to understand how they work. Building things to make life a little easier.
+Curious about how things work. Even more curious about how to make them better.
 
 I'm a Software Engineer who enjoys building backend systems, clean APIs, and automation tools that solve real problems. My journey started with curiosity about games and websites, eventually leading me to fall in love with Python, Django, and FastAPI.
 
@@ -90,10 +89,7 @@ I've worked on everything from enterprise migration tools and healthcare softwar
 ### 📊 GitHub Activity
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-![GitHub Streak](https://streak-stats.demolab.com?user=Sahal054&theme=tokyonight&hide_border=true)
-
 ---
-
 [![Sahal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sahal054&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📫 Let's Connect

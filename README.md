@@ -37,7 +37,7 @@ I've worked on everything from enterprise migration tools and healthcare softwar
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 ### Languages
 

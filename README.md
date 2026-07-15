@@ -1,7 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Sahal054&label=Profile%20Views&color=blueviolet&style=flat)
 
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=3500&pause=100000&color=ECEFF4&center=false&vCenter=true&repeat=false&width=420&lines=Hello+there!+I'm+Sahal+%F0%9F%91%8B)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=3500&pause=100000&color=C9D1D9&center=false&vCenter=true&repeat=false&width=420&lines=Hello+there!+I'm+Sahal+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 > *Curious about how things work. Even more curious about how to make them better.*
 
@@ -17,7 +17,7 @@ I've worked on everything from enterprise migration tools and healthcare softwar
 
 # 🚀 What I'm Up To
 
-- 🔨 Building **Roamy**, a travel platform to simplify trip planning
+- 🔨 Building **Travelling Salesman**, a travel platform to simplify trip planning
 - 🐍 Developing scalable backend services with **Python**, **FastAPI**, and **Django**
 - 🤖 Exploring **AI**, **RAG**, **LLMs**, and intelligent automation
 - ⚙️ Building developer tools that automate repetitive workflows

@@ -11,7 +11,7 @@ My journey started with curiosity about games and websites, eventually leading m
 
 I've worked on everything from enterprise migration tools and healthcare software to freelance web applications, computer vision experiments, and AI-powered projects.
 
-**And honestly... I'm just getting started. **
+** And honestly... I'm just getting started. **
 
 ---
 

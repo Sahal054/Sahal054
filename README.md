@@ -1,7 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Sahal054&label=Profile%20Views&color=blueviolet&style=flat)
 # Hello there! I'm Sahal 👋
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2M2d2Q0d3J4bjd0YzN6M2NjaTRvOGQ5N2g0MnN5a3F2d3Q2NmN1eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
 Breaking things to understand how they work. Building things to make life a little easier.
 
 I'm a Software Engineer who enjoys building backend systems, clean APIs, and automation tools that solve real problems. My journey started with curiosity about games and websites, eventually leading me to fall in love with Python, Django, and FastAPI.
@@ -91,11 +90,10 @@ I've worked on everything from enterprise migration tools and healthcare softwar
 ### 📊 GitHub Activity
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sahal054&theme=tokyonight&hide_border=true)
 
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sahal054&theme=tokyonight&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![Sahal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sahal054&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📫 Let's Connect

@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=arjsr33&label=Profile%20Views&color=blueviolet&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Sahal054&label=Profile%20Views&color=blueviolet&style=flat)
 # Hello there! I'm Sahal 👋
 
 Breaking things to understand how they work. Building things to make life a little easier.
@@ -66,9 +66,9 @@ RAG • Vector Databases • LLMs • System Design • Cloud
 ---
 ### 📊 GitHub Activity
 
-![Sahals's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arjsr33&show_icons=true&theme=tokyonight&hide_title=true)  
-![Sahals's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arjsr33&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arjsr33&layout=compact&theme=tokyonight)
+![Sahals's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahal054&show_icons=true&theme=tokyonight&hide_title=true)  
+![Sahals's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sahal05433&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahal054layout=compact&theme=tokyonight)
 
 ---
 

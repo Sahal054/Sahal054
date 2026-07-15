@@ -91,17 +91,12 @@ I've worked on everything from enterprise migration tools and healthcare softwar
 ### 📊 GitHub Activity
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahal054&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sahal054&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahal054&layout=compact&theme=tokyonight&hide_border=true)
-
 ---
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sahal054&theme=tokyonight&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![Sahal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sahal054&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Profile Views](https://komarev.com/ghpvc/?username=Sahal054&label=Profile%20Views&color=blueviolet&style=flat)
 
 ## 📫 Let's Connect
 

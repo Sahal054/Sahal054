@@ -1,7 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Sahal054&label=Profile%20Views&color=blueviolet&style=flat)
 
-# Hello there! I'm Sahal 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=58A6FF&width=435&lines=Software+Engineer;Backend+Developer;Python+%7C+FastAPI+%7C+Django;Always+Learning+Something+New)](https://git.io/typing-svg)
+
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=3500&pause=100000&color=ECEFF4&center=false&vCenter=true&repeat=false&width=420&lines=Hello+there!+I'm+Sahal+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 > *Curious about how things work. Even more curious about how to make them better.*
 

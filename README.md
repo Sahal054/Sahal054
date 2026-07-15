@@ -1,6 +1,5 @@
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-github-readme-stats.svg)
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Sahal054&label=Profile%20Views&color=blueviolet&style=flat)
 # Hello there! I'm Sahal 👋
 
@@ -68,7 +67,8 @@ RAG • Vector Databases • LLMs • System Design • Cloud
 
 ---
 ### 📊 GitHub Activity
-
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 ![Sahals's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahal054&show_icons=true&theme=tokyonight&hide_title=true)  
 ![Sahals's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sahal05433&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahal054layout=compact&theme=tokyonight)

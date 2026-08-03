@@ -98,7 +98,6 @@ I've worked on everything from enterprise migration tools and healthcare softwar
 # GitHub Activity
 
 <p align="center">
-  <img src="./profile/stats.svg" width="49%" />
   <img src="./profile/top-langs.svg" width="49%" />
 </p>
 
